@@ -1,7 +1,6 @@
-package ru.andreysozonov.materialtask1;
+package ru.andreysozonov.geekmaterialdesign;
 
 import android.content.Context;
-
 import androidx.test.platform.app.InstrumentationRegistry;
 import androidx.test.ext.junit.runners.AndroidJUnit4;
 
@@ -22,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
 
-        assertEquals("ru.andreysozonov.materialtask1", appContext.getPackageName());
+        assertEquals("ru.andreysozonov.geekmaterialdesign", appContext.getPackageName());
     }
 }
