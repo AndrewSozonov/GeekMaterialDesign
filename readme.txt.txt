@@ -1,1 +1,0 @@
-GeekBrains Material Design tasks
