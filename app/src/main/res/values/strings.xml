@@ -1,3 +1,12 @@
 <resources>
-    <string name="app_name">MaterialTask1</string>
+    <string name="app_name">GeekMaterialDesign</string>
+    <string name="labelLogin">Login</string>
+    <string name="labelPassword">Password</string>
+    <string name="labelNickname">Nickname</string>
+    <string name="helper_text">min 8 characters</string>
+    <string name="Submit">Submit</string>
+    <string name="labelEmail">Email</string>
+    <string name="passError">error: At least 8 characters</string>
+    <string name="bottom_sheet">bottom sheet</string>
+    <string name="bottom_sheet_content">Bottom sheet content</string>
 </resources>

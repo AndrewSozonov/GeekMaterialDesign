@@ -1,4 +1,4 @@
-package ru.andreysozonov.materialtask1;
+package ru.andreysozonov.geekmaterialdesign;
 
 import org.junit.Test;
 
