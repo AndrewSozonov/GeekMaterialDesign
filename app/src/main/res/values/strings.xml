@@ -9,4 +9,8 @@
     <string name="passError">error: At least 8 characters</string>
     <string name="bottom_sheet">bottom sheet</string>
     <string name="bottom_sheet_content">Bottom sheet content</string>
+    <string name="flat">FLAT</string>
+    <string name="border">BORDER</string>
+    <string name="raised">RAISED</string>
+    <string name="background">BACKGROUND</string>
 </resources>
