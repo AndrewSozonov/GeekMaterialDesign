@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+    <item
+        android:id="@+id/nav_forecast"
+        android:icon="@drawable/ic_cloud_queue_black_24dp"
+        android:title="FORECAST" />
+    <item
+        android:id="@+id/nav_location"
+        android:icon="@drawable/ic_gps_fixed_black_24dp"
+        android:title="LOCATION" />
+    <item
+        android:id="@+id/nav_gallery"
+        android:icon="@drawable/ic_photo_camera_black_24dp"
+        android:title="GALLERY" />
+    <item
+        android:id="@+id/nav_settings"
+        android:icon="@drawable/ic_build_black_24dp"
+        android:title="SETTINGS" />
+
+</menu>
