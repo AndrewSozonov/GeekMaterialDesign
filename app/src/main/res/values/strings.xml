@@ -13,4 +13,7 @@
     <string name="border">BORDER</string>
     <string name="raised">RAISED</string>
     <string name="background">BACKGROUND</string>
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+    <string name="show_progress_bar">SHOW PROGRESS BAR</string>
 </resources>
