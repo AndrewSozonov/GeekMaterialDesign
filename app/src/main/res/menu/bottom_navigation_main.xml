@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_email"
+        android:icon="@drawable/ic_email_black_24dp"
+        android:title="Email" />
+    <item
+        android:id="@+id/action_bookmark"
+        android:icon="@drawable/ic_bookmark_black_24dp"
+        android:title="Bookmark" />
+    <item
+        android:id="@+id/action_favorites"
+        android:icon="@drawable/ic_star_black_24dp"
+        android:title="Favorites" />
+</menu>
