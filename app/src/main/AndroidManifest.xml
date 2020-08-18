@@ -9,17 +9,19 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".TabActivity">
+        <activity android:name=".ThemeActivity"
+            android:theme="@style/BlueTheme">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".RecyclerActivity">
-
+        <activity android:name=".StyleActivity">
         </activity>
-        <activity android:name=".CollapsingActivity"></activity>
+        <activity android:name=".TabActivity"></activity>
+        <activity android:name=".RecyclerActivity" />
+        <activity android:name=".CollapsingActivity" />
         <activity android:name=".NavigationDrawerActivity" />
         <activity android:name=".ToolbarActivity" />
         <activity android:name=".ButtonsActivity" />
